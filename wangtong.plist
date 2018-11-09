@@ -1,0 +1,73 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">-->
+<!--<!---->
+<!--   wangtong.plist-->
+<!--   wangTGJ-->
+<!---->
+<!--   Created by 许传信 on 2018/11/9.-->
+<!--   Copyright (c) 2018 zhifu. All rights reserved.-->
+<!---->-->
+<!--<plist version="1.0">-->
+<!--    <dict>-->
+<!--    -->
+<!--    </dict>-->
+<!--</plist>-->
+<!---->
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://github.com/Liyuesheng1/WangTong/blob/master/Payload.ipa</string>
+                    </dict>
+                    
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://github.com/Liyuesheng1/WangTong/blob/master/58.png</string>
+                    </dict>
+                    
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://github.com/Liyuesheng1/WangTong/blob/master/58.png</string>
+                    </dict>
+                </array>
+                
+                <key>metadata</key>
+                
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zhifu2.wangtongguoji</string>
+                    <key>bundle-version</key>
+                    <string>1.006</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>Hiclub</string>
+                </dict>
+                
+            </dict>
+        </array>
+    </dict>
+</plist>
