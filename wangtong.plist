@@ -1,22 +1,3 @@
-<!--<?xml version="1.0" encoding="UTF-8"?>-->
-<!--<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">-->
-<!--<!---->
-<!--   wangtong.plist-->
-<!--   wangTGJ-->
-<!---->
-<!--   Created by 许传信 on 2018/11/9.-->
-<!--   Copyright (c) 2018 zhifu. All rights reserved.-->
-<!---->-->
-<!--<plist version="1.0">-->
-<!--    <dict>-->
-<!--    -->
-<!--    </dict>-->
-<!--</plist>-->
-<!---->
-
-
-
-
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -50,7 +31,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://github.com/Liyuesheng1/WangTong/blob/master/58.png</string>
+                        <string>https://github.com/Liyuesheng1/WangTong/blob/master/1024X1024.png</string>
                     </dict>
                 </array>
                 
